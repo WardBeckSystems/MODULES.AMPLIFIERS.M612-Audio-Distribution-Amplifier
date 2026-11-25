@@ -41,7 +41,7 @@ WBSE M6iz
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M612/PHOTOS/1977 - M612 - wbsps - promo - m612 da - front.jpg",
+ "file": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - wbsps - promo - m612 da - front.jpg",
  "sha256": "4ad0c74ff6f3e0618d6c03551239fae16a94346202d75c167768d5401631509e",
  "kind": "module",
  "models": [

@@ -63,7 +63,7 @@ TAA
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M612/PHOTOS/1977 - M612 - wbsps - module - m612 da - front.jpg",
+ "file": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - wbsps - module - m612 da - front.jpg",
  "sha256": "1f6a961e0bbeedc690665fa2a58e4b4c85ac62bd400f746462c621a9491bf8c2",
  "kind": "module",
  "models": [

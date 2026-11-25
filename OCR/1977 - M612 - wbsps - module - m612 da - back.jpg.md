@@ -55,7 +55,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M612/PHOTOS/1977 - M612 - wbsps - module - m612 da - back.jpg",
+ "file": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - wbsps - module - m612 da - back.jpg",
  "sha256": "e1951636074d723359a12b8a7b20d62ad281e8cf0a7c683dae9995b7db10e2df",
  "kind": "module",
  "models": [

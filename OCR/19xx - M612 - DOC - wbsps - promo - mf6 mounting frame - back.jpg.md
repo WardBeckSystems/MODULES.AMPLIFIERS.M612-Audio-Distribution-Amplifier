@@ -43,7 +43,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M612/MECHANICAL/19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",
+ "file": "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",
  "sha256": "4c0f80db899d82e49de09e735fe609a028a69484d7d52339e778c2648d97651f",
  "kind": "doc",
  "models": [

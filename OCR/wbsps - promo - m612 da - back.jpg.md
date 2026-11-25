@@ -49,7 +49,7 @@ WbspSCA
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M612/PHOTOS/wbsps - promo - m612 da - back.jpg",
+ "file": "Modules/AMPLIFIERS/M612/MANUALS/wbsps - promo - m612 da - back.jpg",
  "sha256": "544894ae1a9f67d9fd1f3ce62a75c69b099d80db2bd2a90ca60867ba352f8027",
  "kind": "module",
  "models": [

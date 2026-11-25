@@ -79,7 +79,7 @@ TP2
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M612/PHOTOS/1977 - M612 - wbsps - promo - m612 da - back.jpg",
+ "file": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - wbsps - promo - m612 da - back.jpg",
  "sha256": "f28902f435e9efc4eabc38ab3c760be49a4f945092510d9b89f598a5290f444e",
  "kind": "module",
  "models": [
