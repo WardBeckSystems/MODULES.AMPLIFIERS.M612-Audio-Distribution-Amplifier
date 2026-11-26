@@ -32,7 +32,7 @@ M612A audio distribution amplifier schematic, cropped.
 - **Words (OCR):** 44 in 44 lines: Pi-i · P1-2 · 5414-066 · Pi-J · SpLiTter · NETwoRK · P1-5 · P1-6 · Pz-1 · P2-2 · 541L-066 · Pz-}
 - **Wiring (first pass):** 37 connected wire groups from 143 runs; labelled ends: 52 mm → SpLitter; 40 mm → PI-8; 34 mm → P2-9; 34 mm → P1-9; 34 mm → P1-6
 
-Every curve, box, word and wire group: [19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20612-02-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20612-02-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -34,7 +34,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Title block:** (162, 9)–(330, 121) mm: 635 · 17 · 1/78 · REDRAWN · ISSUE DATE · REVISION · WBS WARD-BECK · sys · DRN: PMAMONEY · M612 · ENG. · DISTRIBUTION · AMPLIFIE · CKD · SCHEMATIC · APP · SCALE LB 612-02-001
 - **Wiring (first pass):** 35 connected wire groups from 210 runs; labelled ends: 459 mm → MDA9AZA-4, C2s, 470, /40; 274 mm → C24, T470, J4o, 4401; 158 mm → oVaoo, SB, DSI, BN; 156 mm → 2N3569, C24, T470, J4o; 136 mm → CRIHIA, 21 GN 80-11, MDA9AZA-4, 22G0l
 
-Every curve, box, word and wire group: [1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18 (traced).json](../SCHEMATICS/1981%20-%20612-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ISS%2018%20(traced).json) (the CAD file: `1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18 (traced).dxf`).
+Every curve, box, word and wire group: [1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18 (traced).json](../SCHEMATICS/1981%20-%20612-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ISS%2018%20%28traced%29.json) (the CAD file: `1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18 (traced).dxf`).
 
 ## Full text
 

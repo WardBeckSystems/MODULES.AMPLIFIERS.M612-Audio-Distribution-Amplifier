@@ -23,7 +23,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Title block:** (111, 8)–(329, 120) mm: 1/ 78 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRNP MAHoNey · M612 · ENG. · DISTRIBUTION AMPLIFIER · CKD:SRell · WIRING DIAGRAM · APP · SCALE · ISSUE · LB · 612-09-001
 - **Wiring (first pass):** 51 connected wire groups from 205 runs; labelled ends: 307 mm → OUTPUTS, (NOTE 3), 12; 118 mm → 600n; 116 mm → 6002; 91 mm → 6002; 91 mm → Goon
 
-Every curve, box, word and wire group: [1977 - M612 - 612-09-001 - NOT LOAD UNU SED OUT PUTS (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-09-001%20-%20NOT%20LOAD%20UNU%20SED%20OUT%20PUTS%20(traced).json) (the CAD file: `1977 - M612 - 612-09-001 - NOT LOAD UNU SED OUT PUTS (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - 612-09-001 - NOT LOAD UNU SED OUT PUTS (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-09-001%20-%20NOT%20LOAD%20UNU%20SED%20OUT%20PUTS%20%28traced%29.json) (the CAD file: `1977 - M612 - 612-09-001 - NOT LOAD UNU SED OUT PUTS (traced).dxf`).
 
 ## Full text
 

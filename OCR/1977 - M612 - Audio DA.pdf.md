@@ -26,7 +26,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Words (OCR):** 10 in 7 lines: WAAD-BECK SYSTEMS LTD_ · WBS B41 PROGRESS AVENUE SCAABOAOUGH ONTAAIO M1h2X4 · TELEX: 085-25399 · TELEPHONE: 418/438-6550 · M612 · DISTRIBUTION AMPLIFIER · DESIGN AND MANUFACTURE Of PAOFESSONAL AUDIO EOUPMENT
 - **Title block:** (48, 389)–(269, 425) mm: WAAD-BECK SYSTEMS LTD_ · WBS B41 PROGRESS AVENUE SCAABOAOUGH ONTAAIO M1h2X4 · TELEX: 085-25399 · TELEPHONE: 418/438-6550
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p1 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p1%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p1 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p1%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p1 (traced).dxf`).
 
 ### Page 2
 
@@ -39,7 +39,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p1 (traced).json]
 - **Title block:** (21, 51)–(299, 426) mm: WAAD-BECK SystemB LTD · QF_CONIENIS · TABLE · M612 DLSTRIBUILON_AMPLIFIER · SECIION · PAGE · Warranty · Technical Da ta · 1-1 to 1-2 · Genera] · Description · 2-1 · Instalation · 3-1 to · 3-2 · circui
 - **Wiring (first pass):** 1 connected wire groups from 18 runs
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p2 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p2%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p2 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p2%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p2 (traced).json]
 - **Outlines:** line 41 rings, 677 straight (3,120 mm) / 94 curved (142 mm); text 1,085 rings, 8,770 straight (9,902 mm) / 2,451 curved (3,857 mm)
 - **Words (OCR):** 145 in 79 lines: WARD-BECK SYSTEMB LTD · TECHNICAL DAIA · M612 · DISTRIBUIION_AMPLIFIER · Number Outputs: · 0 f · 12_ · Ga in: · Front pane] selectab · Te : · 16 · trim adjustment
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p3 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p3%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p3 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p3%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p3 (traced).json]
 - **Outlines:** line 32 rings, 713 straight (3,200 mm) / 84 curved (131 mm); text 240 rings, 2,038 straight (2,382 mm) / 514 curved (820 mm)
 - **Words (OCR):** 28 in 17 lines: WARD-BECK By8tems LTD; · IECHNICAL DATA · M612 DISTRIBUTION_AMPLIFLER · Ambient Temperature: · to · 60 degrees Celsius . · Dimensions : · 3 .4 " · wide 3 . 4" high · 13.7" deep. · (86 X 86 mm · mm
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p4 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p4%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p4 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p4%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p4 (traced).json]
 - **Words (OCR):** 274 in 124 lines: WARD-BECK SYSTEmS LTD: · GENERALDESCRIPIION · M612 DISIRIBUILON_AMPLIFIER · The · M612 audio · distribution amplifier is ac · an · operated , · plug-in unit · des igned to · bridge single · audio source
 - **Title block:** (24, 45)–(196, 426) mm: WARD-BECK SYSTEmS LTD: · GENERALDESCRIPIION · M612 DISIRIBUILON_AMPLIFIER · The · M612 audio · distribution amplifier is ac · plug-in unit · des igned to · bridge single · provide multiple 0 f isolate
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p5 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p5%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p5 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p5%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p5 (traced).json]
 - **Words (OCR):** 293 in 161 lines: WARD-BECK SyseMs LTD · INSTALLATION · DISTRIBUTION_AMPLIFIER · M612 · The · M612 Plugs directly into · the MF mounting frame which · insta]led in standard · EIA 19-inch equipment rack_ · may · be · The MF6 frame
 - **Title block:** (18, 299)–(169, 426) mm: WARD-BECK SyseMs LTD · INSTALLATION · M612 · The · M612 Plugs directly into · insta]led in standard · may · be · The MF6 frame · amplifiers any · or · combination
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p6 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p6%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p6 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p6%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p6 (traced).json]
 - **Words (OCR):** 111 in 54 lines: WARD-BECK bystems LTD · INSTALLATION · M612 · DLSIRIBUILON_AMPLIFIER · Individua] · systems require ground · techniques Peculiar t0 · Preferabiy the · each system. · one point ground system · should be · employed to
 - **Title block:** (25, 234)–(159, 426) mm: WARD-BECK bystems LTD · M612 · Individua] · systems require ground · Preferabiy the · each system. · should be · employed to · associated with al1 signa ] · point of lowest · the · in drawing · LB6 12
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p7 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p7%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p7 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p7%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p7 (traced).json]
 - **Words (OCR):** 288 in 141 lines: WAAD-BECK SYSTEMS LTD_ · CIRCUIT_DESCRIPIION · M612_DISIRIBUTION_AMPLIFIER · The M612 comprises five · major sections: · input isolation · network · preamplifier power · amplifier, output isolation · suppiy? · network and · power
 - **Title block:** (21, 45)–(150, 425) mm: WAAD-BECK SYSTEMS LTD_ · The M612 comprises five · network · preamplifier power · suppiy? · network and · power · Resistors R3 and R6 zener · C1 through · C5 form the · input · resistor/zener · config
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p8 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p8%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p8 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p8%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p8 (traced).dxf`).
 
 ### Page 9
 
@@ -110,7 +110,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p8 (traced).json]
 - **Dots (junctions):** 1
 - **Words (OCR):** 270 in 133 lines: CLRCULL_DESCRIPIION · M612 · DISIRIBUTION_AMPLLEIER · balanced Preamp] ifier signa] · Capacitors C10 and · C11 couple the · to the · power amp]ifier. · 23 and · 24, in · conjunction with power · devices Q1 through
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p9 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p9%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p9 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p9%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p9 (traced).dxf`).
 
 ### Page 10
 
@@ -119,7 +119,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p9 (traced).json]
 - **Outlines:** line 35 rings, 584 straight (3,353 mm) / 57 curved (94.5 mm); text 229 rings, 1,918 straight (2,332 mm) / 516 curved (835 mm)
 - **Words (OCR):** 21 in 14 lines: WAAD-BECK SYSTEMS LTD. · CIRCUII_DESCRIPIION · M612 · DISTRIBUTION_AMPLIFIER · Transistors Q9 , · Q10 · and Q11, Q12 form · complementary_voltage · regulator producing +18 · volts · dc output · to operate 21 and
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p10 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p10%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p10 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p10%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p10 (traced).dxf`).
 
 ### Page 11
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p10 (traced).json
 - **Outlines:** line 141 rings, 1,505 straight (4,734 mm) / 328 curved (499 mm); text 1,220 rings, 9,966 straight (11,286 mm) / 2,905 curved (4,619 mm)
 - **Words (OCR):** 170 in 106 lines: WARD-BECK SYSTeMS LTD; · MAINTENANCE · M6 12 · DLSTRIBUIION AMPLIFIER · The M612 des igned for quality ejectronic equipment, · is · dependable · trouble-free service; · however, · with · a 11 · high
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p11 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p11%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p11 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p11%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p11 (traced).json
 - **Dots (junctions):** 2
 - **Words (OCR):** 199 in 79 lines: LTD; · MAINTENANCE · M612 _DISTRLBUTLON_AMPLLELER · When  comparing the measurements · isted the voltage chart, · in · consideration should be given to the · fact that for · direct · coupled sections · fault in one · circuit may
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p12 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p12%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p12 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p12%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p12 (traced).json
 - **Closed boxes:** 14
 - **Words (OCR):** 127 in 113 lines: WARD-BECK SYSTeMS LTD · LISI · PARIS · M612 · DISTRIBUTION_AMPLIFIER · PARI · DESCRIPTION · MEG · MFG PART_NUMBER · C1 · Capacitor · 220 pF
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p13 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p13%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p13 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p13 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p13%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p13 (traced).dxf`).
 
 ### Page 14
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p13 (traced).json
 - **Closed boxes:** 10
 - **Words (OCR):** 85 in 75 lines: WARD-BECK Systems LTD; · PARIS LISI · M642 DISIRIBUTION · AMPLIFIER · PART DESCRIPTION · MFG · MFG PART · NUMBER · CR6 · Diode · Fairchild · 1N4148
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p14 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p14%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p14 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p14 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p14%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p14 (traced).dxf`).
 
 ### Page 15
 
@@ -168,7 +168,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p14 (traced).json
 - **Closed boxes:** 12
 - **Words (OCR):** 108 in 97 lines: WARD-BECK SYSTEMS LTD · PARIS LISI · M612 DLSTRIBUIION_AMPLIFIER · PART · DESCRIPTION · MFG · MEG_PART_NUMBER · R6 · Resistor · Yw 5% 1k · Philips · RZ
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p15 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p15%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p15 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p15 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p15%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p15 (traced).dxf`).
 
 ### Page 16
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p15 (traced).json
 - **Closed boxes:** 12
 - **Words (OCR):** 88 in 83 lines: WAAD-BECK SYSTEMS · PARIS LISI · M612 DISTRIBUIION_AMPLIFIER · PARI DESCRIPTLON · MFG · MEG_PARI_NUMBER · R41 · Resistor Sw 58 3k3 · Phiips · R42 · 1K · R43
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p16 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p16%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p16 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p16 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p16%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p16 (traced).dxf`).
 
 ### Page 17
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p16 (traced).json
 - **Words (OCR):** 95 in 76 lines: WAAD-BECK BYSTEMS LTD · LIST · PARIS · DISTRIBUTION_AMPLIEIER · M642 · PART DESCRIPTION · MFG · MFG · PART NUMBER · R76 · Resistor · 300
 - **Title block:** (22, 34)–(207, 425) mm: WAAD-BECK BYSTEMS LTD · LIST · PARIS · DISTRIBUTION_AMPLIEIER · M642 · PART DESCRIPTION · MFG · R76 · Resistor · 300 · Philips · R77 · R78 · R79 · 22k · R8o · 820 · R8 1 · 820 · R82 · 22k · 10k · R83 
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p17 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p17%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p17 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p17 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p17%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p17 (traced).dxf`).
 
 ### Page 18
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p17 (traced).json
 - **Dots (junctions):** 5
 - **Words (OCR):** 89 in 77 lines: RI3 · CR7 · ZKZ · IN4148 · Cz C3 · C6 · R3 · 22/252/25 · R8 · ZZOp · IK · 24k
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p18 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p18%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p18 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p18 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p18%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p18 (traced).dxf`).
 
 ### Page 19
 
@@ -212,7 +212,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p18 (traced).json
 - **Closed boxes:** 2
 - **Words (OCR):** 113 in 104 lines: Rai · CI7 · 2235 · 3k3 · F48 · Q5 · +I8V · R26 · R3O · ZN · ISk · IOK
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p19 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p19%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p19 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p19 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p19%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p19 (traced).dxf`).
 
 ### Page 20
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p19 (traced).json
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 3.1 @ (111.4, 356.9), r 2.9 @ (112.0, 138.2), r 2.8 @ (125.1, 10.6), r 1.7 @ (241.7, 302.5)
 - **Words (OCR):** 152 in 129 lines: TP · +26v · Rsi 14 · OUT · 306 R52 · PI-9 · +26V · R53 · 300 · Q5 · PI-IO · 300 R54
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p20 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p20%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p20 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p20 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p20%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p20 (traced).dxf`).
 
 ### Page 21
 
@@ -236,7 +236,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p20 (traced).json
 - **Title block:** (162, 9)–(331, 120) mm: 635 Jsek · 17 · 1/78 · REDRAWN · ISSUE DATE · REVISION · WBS WARD-BECK · sys · DRNS · M612 · ENG. · DISTRIBUTION AMPLIFIE · CKD · SCHEMATIC · APP · SCALE · LB · 612-02-001
 - **Wiring (first pass):** 37 connected wire groups from 195 runs; labelled ends: 459 mm → MDAIAZA-4, C2S, 470, J4o; 275 mm → C24, T470, J4o, 4401; 162 mm → oY4oo, SB, DSI, BN; 156 mm → ZN3569, C24, T470, J4o; 104 mm → 22GbL, 0.254
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p21 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p21%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p21 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p21 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p21%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p21 (traced).dxf`).
 
 ### Page 22
 
@@ -250,7 +250,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p21 (traced).json
 - **Title block:** (117, 9)–(335, 120) mm: 135 Jsbk · 17 · 1/78 · REDRAWN · ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN: PMAoNEY · M612 · ENG. · DISTRIBUTION AMPLIFIER · CKD_ · SCHEMATIC · APP · SCALE · ISSUE · LB · 612-02-001
 - **Wiring (first pass):** 30 connected wire groups from 162 runs; labelled ends: 357 mm → MDA9AZA-4, 470, J40, j0Q/40; 170 mm → C24, T470, J4o, 19; 164 mm → oY4oo, SB, DSI, BN; 136 mm → 21 GN 80-11, CRIAIA, MDA9AZA-4, 22GNl; 134 mm → 83, C24, T470, J4o
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p22 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p22%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p22 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p22 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p22%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p22 (traced).dxf`).
 
 ### Page 23
 
@@ -261,7 +261,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p22 (traced).json
 - **Closed boxes:** 23
 - **Words (OCR):** 27 in 25 lines: CONNEC TOR REAR VIEW · PI · PZ · CHASSIS · 16 · M15v · OUT7 · Ac · OUT 8 · OUT ( · OUT9 · 05
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p23 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p23%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p23 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p23 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p23%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p23 (traced).dxf`).
 
 ### Page 24
 
@@ -272,7 +272,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p23 (traced).json
 - **Closed boxes:** 27; named: AI 16 16 P1-8; 66 A2 PI- 8; A3 PI- 8; 16 A5 PI-8
 - **Words (OCR):** 57 in 49 lines: TYPICAL INSTALLATION OF · M61Z AMPLIFIERS WIT · FIVE · ONE MF6 · MOUNT ING FRAM · Pz · Pi · NPUt 1 · 16 · AI · 16 · P1-8
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p24 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p24%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p24 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p24 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p24%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p24 (traced).dxf`).
 
 ### Page 25
 
@@ -282,7 +282,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p24 (traced).json
 - **Closed boxes:** 18
 - **Words (OCR):** 29 in 28 lines: MSVAC · OF · WITHIN · TYPICAL INPUTloutput · FRAME · WIRING OF EACH · Msi 2 AMPLIFIER · M15v AC · 16 · 6002 · P28 · INPUT
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p25 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p25%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p25 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p25 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p25%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p25 (traced).dxf`).
 
 ### Page 26
 
@@ -296,7 +296,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p25 (traced).json
 - **Title block:** (163, 8)–(330, 119) mm: 1/ 78 · REDRAWN · ISSUE |DATE · REVISION · WBS WARD-BECK SyS · DRNPMAYoNsy · M612 · ENG_ · DISTRIBUTION AMPLII · CKDRelly · APP · WIRING DIAGRAM · SCALE · LB · 612-09-001
 - **Wiring (first pass):** 55 connected wire groups from 211 runs; labelled ends: 309 mm → OUTPUTS, (NOTE 3), 12; 213 mm → 6002; 205 mm → Goon; 204 mm → 6002; 200 mm → 6001
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p26 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p26%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p26 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p26 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p26%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p26 (traced).dxf`).
 
 ### Page 27
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p26 (traced).json
 - **Title block:** (112, 8)–(330, 120) mm: 1/ 78 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRNPMAYoNey · M612 · ENG. · DISTRIBUTION AMPLIFIER · CKD:= · Rell · WIRING DIAGRAM · APP · ISSUE · SCALE · LB · 612-09-001
 - **Wiring (first pass):** 53 connected wire groups from 207 runs; labelled ends: 308 mm → OUTPUTS, (NOTE 3), 12; 120 mm → 600n; 117 mm → 600_; 96 mm → Goon 11, 6002; 90 mm → Goon
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p27 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p27%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p27 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p27 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p27%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p27 (traced).dxf`).
 
 ### Page 28
 
@@ -320,7 +320,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p27 (traced).json
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.5 @ (291.7, 278.7)
 - **Words (OCR):** 10 in 10 lines: Sw2 · DSI · PCB M152 · Cis · R28 · Pi · R33 · Pz · 22 WAY · PC CONNECTOR
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p28 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p28%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p28 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p28 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p28%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p28 (traced).dxf`).
 
 ### Page 29
 
@@ -332,7 +332,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p28 (traced).json
 - **Words (OCR):** 26 in 25 lines: Sw2 · DSI · Swi · F1 · FZ · R35 · Cis · 1/78 · REDRAWN · Ge · ISSUE |DATE · REVISION
 - **Title block:** (116, 9)–(334, 121) mm: 1/78 · REDRAWN · Ge · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · M612 · ENG. · DISTRIBUTION · AMPLIFIER · CKD Rell · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 612-06-002
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p29 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p29%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p29 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p29 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p29%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p29 (traced).dxf`).
 
 ### Page 30
 
@@ -343,7 +343,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p29 (traced).json
 - **Closed boxes:** 37; named: (22; CI9; R9; Ri4; R77; IR; C23; CRB; R78; R76
 - **Words (OCR):** 34 in 32 lines: R8s · R33 · IKRZ · C6 · 09 · C2 C3 · C2o · 21 · 23 · (22 · R9 · Ri4
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p30 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p30%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p30 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p30 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p30%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p30 (traced).dxf`).
 
 ### Page 31
 
@@ -356,7 +356,7 @@ Every curve, box, word and wire group: [1977 - M612 - Audio DA p30 (traced).json
 - **Words (OCR):** 31 in 28 lines: s@pib00 85 18, · B00 LR43 · ~LRag · (24 · c25 · R44 · RSI · R7s · W78 · REDRAWN · 77 · ISSUE IDATE
 - **Title block:** (165, 6)–(336, 95) mm: W78 · REDRAWN · 77 · ISSUE IDATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRnPIuullEY · M152 · ENG_ · AMPLIFIER · BOARD · CKD elaL= · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 152-06-001
 
-Every curve, box, word and wire group: [1977 - M612 - Audio DA p31 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p31%20(traced).json) (the CAD file: `1977 - M612 - Audio DA p31 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - Audio DA p31 (traced).json](../MANUALS/1977%20-%20M612%20-%20Audio%20DA%20p31%20%28traced%29.json) (the CAD file: `1977 - M612 - Audio DA p31 (traced).dxf`).
 
 ## Full text
 

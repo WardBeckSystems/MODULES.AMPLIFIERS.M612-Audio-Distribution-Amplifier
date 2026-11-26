@@ -23,7 +23,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Title block:** (164, 8)–(330, 119) mm: 78 · REDRAWN · ISSUE |DATE · REVISION · WBS WARD-BECK SyS · DRNP MAHoNey · M612 · ENG · DISTRIBUTION AMPLII · CKD: Rell · DIAGRAM · APP · WIRING · SCALE · LB · 612-09-001
 - **Wiring (first pass):** 50 connected wire groups from 204 runs; labelled ends: 308 mm → OUTPUTS, ((NOTE 3), 12; 233 mm → 600n, 6002; 232 mm → Goon; 200 mm → 6002; 200 mm → 6002
 
-Every curve, box, word and wire group: [1977 - M612 - 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-09-001%20-%20FOR%20MINIMUM%20DISSIPATION%20MAXIMUM%20HEADROOM%20(traced).json) (the CAD file: `1977 - M612 - 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-09-001%20-%20FOR%20MINIMUM%20DISSIPATION%20MAXIMUM%20HEADROOM%20%28traced%29.json) (the CAD file: `1977 - M612 - 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM (traced).dxf`).
 
 ## Full text
 

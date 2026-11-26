@@ -20,7 +20,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Words (OCR):** 25 in 22 lines: Sw2 · DSI · SwI · F1 · FZ · R35 · C1s · 1/78 · REDRAWN · ISSUE |DATE · REVISION · APP
 - **Title block:** (116, 9)–(334, 121) mm: 1/78 · REDRAWN · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · M612 · ENG. · DISTRIBUTION AMPLIFIER · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 612-06-002
 
-Every curve, box, word and wire group: [1977 - M612 - 612-06-002 - DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-06-002%20-%20DISTRIBUTION%20AMPLIFIER%20(traced).json) (the CAD file: `1977 - M612 - 612-06-002 - DISTRIBUTION AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - 612-06-002 - DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-06-002%20-%20DISTRIBUTION%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1977 - M612 - 612-06-002 - DISTRIBUTION AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Title block:** (162, 9)–(330, 121) mm: 45 · 17 · 1/78 · REDRAWN · ISSUE DATE · REVISION · WBS WARD-BECK sys · DRN: PMAMONEY · M612 · ENG. · DISTRIBUTION · AMPLIFIE · CKD · SCHEMATIC · APP · SCALE LB 612-02-001
 - **Wiring (first pass):** 36 connected wire groups from 173 runs; labelled ends: 459 mm → MDA9AZA-4, C2s, 470, /40; 273 mm → C24, T470, J4o, 4401; 158 mm → oVaoo, SB, DSI, BN; 157 mm → 2N3569, C24, T470, J4o; 104 mm → 22G0l, FI, 0.25A
 
-Every curve, box, word and wire group: [1977 - M612 - 612-02-001 - REVISION THERWISE STATED ALL (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-02-001%20-%20REVISION%20THERWISE%20STATED%20ALL%20(traced).json) (the CAD file: `1977 - M612 - 612-02-001 - REVISION THERWISE STATED ALL (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - 612-02-001 - REVISION THERWISE STATED ALL (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-02-001%20-%20REVISION%20THERWISE%20STATED%20ALL%20%28traced%29.json) (the CAD file: `1977 - M612 - 612-02-001 - REVISION THERWISE STATED ALL (traced).dxf`).
 
 ## Full text
 

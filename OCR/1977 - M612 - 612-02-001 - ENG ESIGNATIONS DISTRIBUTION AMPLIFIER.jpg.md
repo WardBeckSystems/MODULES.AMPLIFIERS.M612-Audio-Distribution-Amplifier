@@ -23,7 +23,7 @@ Wiki page: [M612](../../../../PAGES/M612.md)
 - **Title block:** (117, 9)–(335, 120) mm: 635 · 17 · 1/78 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN: PMAMONEY · M612 · ENG_ · DISTRIBUTION AMPLIFIER · CKD · SCHEMATIC · APP · SCALE · ISSUE · LB · 612-02-001 · 18
 - **Wiring (first pass):** 32 connected wire groups from 169 runs; labelled ends: 357 mm → MDA9AZA-4, C25, 470, /4o; 171 mm → C24, T470, /4o, 19; 163 mm → oYaoo, SB, DS, BN; 134 mm → 83, C24, T470, /4o; 108 mm → C24, T470, /4o
 
-Every curve, box, word and wire group: [1977 - M612 - 612-02-001 - ENG ESIGNATIONS DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-02-001%20-%20ENG%20ESIGNATIONS%20DISTRIBUTION%20AMPLIFIER%20(traced).json) (the CAD file: `1977 - M612 - 612-02-001 - ENG ESIGNATIONS DISTRIBUTION AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M612 - 612-02-001 - ENG ESIGNATIONS DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1977%20-%20M612%20-%20612-02-001%20-%20ENG%20ESIGNATIONS%20DISTRIBUTION%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1977 - M612 - 612-02-001 - ENG ESIGNATIONS DISTRIBUTION AMPLIFIER (traced).dxf`).
 
 ## Full text
 
