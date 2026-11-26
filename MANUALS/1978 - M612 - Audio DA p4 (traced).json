@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/c0d9ad8e3f3a17de-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 7.1, 333.3, 423.6],
+ "outlines": {
+  "line": {"rings": 128, "straight": {"n": 1588, "mm": 4195.1}, "curved": {"n": 306, "mm": 488.2}},
+  "text": {"rings": 146, "straight": {"n": 1175, "mm": 1393.8}, "curved": {"n": 294, "mm": 465.7}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [82.5, 324.1, 86.1, 328.0], "w": 3.7, "h": 3.9, "from": "ring"}],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [39.9, 410.4, 147.9, 415.9], "text": "AJ=ID-B ECK SYSTEMS LTD."},
+   {"mm": [144.0, 362.3, 199.9, 368.5], "text": "TECHNICAL DATA"},
+   {"mm": [115.9, 348.7, 226.7, 354.9], "text": "M612 DISTRIBUTION AMPLIfIER"},
+   {"mm": [46.6, 321.9, 62.2, 328.9], "text": "~b1e"},
+   {"mm": [75.1, 322.1, 93.9, 328.6], "text": "Te llpe"},
+   {"mm": [108.0, 322.1, 113.8, 328.6], "text": "ur"},
+   {"mm": [156.7, 322.1, 239.4, 328.6], "text": "to 60 degr es Cels ius"},
+   {"mm": [47.5, 308.5, 85.5, 315.5], "text": "l~e nsi ons:"},
+   {"mm": [168.2, 300.5, 223.9, 315.2], "text": "wide Ii. 34"},
+   {"mm": [224.8, 308.7, 231.9, 315.2], "text": "gh"},
+   {"mm": [245.0, 308.7, 254.1, 315.2], "text": "13."},
+   {"mm": [268.6, 308.7, 287.1, 315.2], "text": "deep."},
+   {"mm": [184.4, 301.8, 191.1, 307.6], "text": "86"},
+   {"mm": [42.7, 288.7, 66.1, 295.1], "text": "We ght"},
+   {"mm": [156.3, 288.7, 179.4, 295.1], "text": "pounds"},
+   {"mm": [209.0, 288.7, 231.4, 295.1], "text": "kg ne"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"},
+   {"mm": [164.3, 5.6, 174.0, 12.1], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–333 mm across, 7–424 mm up",
+  "- **Outlines:** line 128 rings, 1,588 straight (4,195 mm) / 306 curved (488 mm); text 146 rings, 1,175 straight (1,394 mm) / 294 curved (466 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 39 in 21 lines: AJ=ID-B ECK SYSTEMS LTD. · TECHNICAL DATA · M612 DISTRIBUTION AMPLIfIER · ~b1e · Te llpe · ur · to 60 degr es Cels ius · l~e nsi ons: · wide Ii. 34 · gh · 13. · deep."
+ ]
+}

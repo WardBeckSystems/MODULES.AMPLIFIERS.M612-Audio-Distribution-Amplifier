@@ -1,0 +1,108 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/SCHEMATICS/1978 - 612-06-002 - DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/3e1db10c70977f0c.svg",
+ "sheet": {
+  "number": "B 612-06-002",
+  "title": "DISTRIBUTION AMPLIFIER / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.2, 431.8],
+ "outlines": {
+  "line": {"rings": 843, "straight": {"n": 9726, "mm": 13152.6}, "curved": {"n": 1853, "mm": 1762.5}},
+  "text": {"rings": 187, "straight": {"n": 2155, "mm": 2688.6}, "curved": {"n": 594, "mm": 720.0}},
+  "tb": {"rings": 37, "straight": {"n": 468, "mm": 630.5}, "curved": {"n": 89, "mm": 105.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [211.8, 104.4, 310.0, 114.2], "w": 98.2, "h": 9.8, "from": "ring", "words": ["REDRAWN"], "in_title_block": true},
+  {"mm": [311.1, 105.1, 329.5, 114.2], "w": 18.4, "h": 9.1, "from": "ring", "in_title_block": true},
+  {"mm": [171.4, 104.3, 190.6, 113.8], "w": 19.2, "h": 9.5, "from": "ring", "in_title_block": true},
+  {"mm": [191.7, 104.3, 210.7, 113.8], "w": 19.0, "h": 9.5, "from": "ring", "words": ["1/78"], "in_title_block": true},
+  {"mm": [211.7, 94.5, 310.0, 103.8], "w": 98.3, "h": 9.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [311.1, 95.0, 329.5, 103.8], "w": 18.4, "h": 8.9, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [171.6, 94.3, 190.6, 103.2], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [191.7, 94.3, 210.7, 103.2], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [121.8, 66.2, 329.5, 93.3], "w": 207.7, "h": 27.1, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {
+   "mm": [171.6, 26.3, 329.6, 66.1],
+   "w": 157.9,
+   "h": 39.8,
+   "from": "ring",
+   "words": ["M612", "DISTRIBUTION", "AMPLIFIER", "LAYOUT", "COMPONENT"],
+   "in_title_block": true
+  },
+  {"mm": [122.0, 46.0, 170.8, 55.3], "w": 48.8, "h": 9.3, "from": "ring", "words": ["ENG."], "in_title_block": true},
+  {"mm": [121.8, 26.1, 170.8, 35.2], "w": 49.0, "h": 9.2, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [291.5, 6.6, 329.5, 25.9], "w": 38.1, "h": 19.3, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [191.9, 6.2, 290.4, 25.7], "w": 98.5, "h": 19.5, "from": "ring", "words": ["612-06-002"]},
+  {"mm": [121.7, 5.8, 170.8, 25.1], "w": 49.1, "h": 19.3, "from": "ring", "words": ["SCALE"]},
+  {"mm": [171.8, 6.0, 190.9, 25.0], "w": 19.1, "h": 19.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [19.9, 369.6, 37.1, 376.6], "text": "Sw2"},
+   {"mm": [55.1, 358.8, 69.1, 365.3], "text": "DSI"},
+   {"mm": [117.0, 355.8, 132.8, 363.2], "text": "SwI"},
+   {"mm": [237.9, 266.6, 246.6, 273.6], "text": "Fi"},
+   {"mm": [240.1, 233.2, 250.9, 241.3], "text": "FZ"},
+   {"mm": [123.5, 171.6, 139.7, 179.3], "text": "R35"},
+   {"mm": [19.9, 150.1, 33.2, 157.7], "text": "C1s"},
+   {"mm": [193.2, 104.7, 210.1, 112.9], "text": "1/78"},
+   {"mm": [246.1, 105.8, 276.4, 112.7], "text": "REDRAWN"},
+   {"mm": [171.6, 95.0, 209.9, 102.7], "text": "ISSUE |DATE"},
+   {"mm": [247.2, 95.2, 276.4, 103.4], "text": "REVISION"},
+   {"mm": [313.5, 96.1, 326.9, 103.0], "text": "APP"},
+   {"mm": [135.2, 73.2, 323.2, 85.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [240.1, 53.5, 263.2, 62.2], "text": "M612"},
+   {"mm": [123.1, 47.5, 137.5, 54.0], "text": "ENG."},
+   {"mm": [202.5, 41.2, 299.5, 50.8], "text": "DISTRIBUTION AMPLIFIER"},
+   {"mm": [206.2, 30.2, 258.4, 38.9], "text": "COMPONENT"},
+   {"mm": [263.8, 30.0, 296.4, 40.3], "text": "LAYOUT"},
+   {"mm": [123.1, 27.0, 136.4, 33.9], "text": "APP"},
+   {"mm": [135.4, 17.7, 155.9, 24.7], "text": "SCALE"},
+   {"mm": [301.2, 19.0, 320.0, 26.0], "text": "ISSUE"},
+   {"mm": [216.1, 9.9, 269.4, 19.5], "text": "612-06-002"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [116.3, 9.2, 333.7, 121.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "1/78",
+   "REDRAWN",
+   "ISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "M612",
+   "ENG.",
+   "DISTRIBUTION AMPLIFIER",
+   "COMPONENT",
+   "LAYOUT",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "612-06-002"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 612-06-002, size B 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 843 rings, 9,726 straight (13,153 mm) / 1,853 curved (1,762 mm); text 187 rings, 2,155 straight (2,689 mm) / 594 curved (720 mm); tb 37 rings, 468 straight (630 mm) / 89 curved (105 mm)",
+  "- **Closed boxes:** 16 (12 in the title block); named: ISSUE; 612-06-002; SCALE",
+  "- **Words (OCR):** 25 in 22 lines: Sw2 · DSI · SwI · Fi · FZ · R35 · C1s · 1/78 · REDRAWN · ISSUE |DATE · REVISION · APP",
+  "- **Title block:** (116, 9)–(334, 121) mm: 1/78 · REDRAWN · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · M612 · ENG. · DISTRIBUTION AMPLIFIER · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 612-06-002"
+ ]
+}

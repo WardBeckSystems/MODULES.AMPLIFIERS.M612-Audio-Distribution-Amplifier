@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/c0d9ad8e3f3a17de-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 311.8, 423.6],
+ "outlines": {
+  "line": {"rings": 181, "straight": {"n": 1892, "mm": 4994.7}, "curved": {"n": 375, "mm": 604.5}},
+  "text": {"rings": 155, "straight": {"n": 860, "mm": 960.3}, "curved": {"n": 210, "mm": 342.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [185.0, 363.4, 187.2, 368.4], "w": 2.2, "h": 5.1, "from": "ring"},
+  {"mm": [197.1, 363.4, 199.3, 368.4], "w": 2.2, "h": 5.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [71.5, 408.5, 136.7, 414.0], "text": "CK YSTEMS LT"},
+   {"mm": [133.2, 361.4, 208.8, 367.4], "text": "CIRCUIT DESCRI PTIDIt"},
+   {"mm": [117.0, 348.0, 220.0, 354.0], "text": "\"'612 DISTRIBUTIDIt AMPLIFIE"},
+   {"mm": [40.4, 321.5, 168.8, 328.0], "text": "Tra ns istors Q9 QI0 and Ql1 Q12"},
+   {"mm": [174.0, 321.5, 179.6, 327.7], "text": "fo"},
+   {"mm": [214.2, 321.5, 281.5, 328.0], "text": "ple llen ar voltag"},
+   {"mm": [40.8, 314.6, 116.4, 321.0], "text": "regu lato produc ing"},
+   {"mm": [145.5, 314.6, 162.6, 321.0], "text": "vol ts"},
+   {"mm": [185.9, 314.6, 291.7, 321.0], "text": "utpu to opera te Zl and Z2."},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [144.2, 410.3], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–312 mm across, 0–424 mm up",
+  "- **Outlines:** line 181 rings, 1,892 straight (4,995 mm) / 375 curved (604 mm); text 155 rings, 860 straight (960 mm) / 210 curved (343 mm)",
+  "- **Closed boxes:** 2",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 39 in 13 lines: CK YSTEMS LT · CIRCUIT DESCRI PTIDIt · \"'612 DISTRIBUTIDIt AMPLIFIE · Tra ns istors Q9 QI0 and Ql1 Q12 · fo · ple llen ar voltag · regu lato produc ing · vol ts · utpu to opera te Zl and Z2. · ps · BS · tp"
+ ]
+}

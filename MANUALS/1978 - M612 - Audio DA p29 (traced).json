@@ -1,0 +1,97 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/c0d9ad8e3f3a17de-p29.svg",
+ "sheet": {
+  "number": "612-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.4, 336.4, 431.8],
+ "outlines": {
+  "line": {"rings": 601, "straight": {"n": 9110, "mm": 13583.4}, "curved": {"n": 1729, "mm": 1752.2}},
+  "text": {"rings": 27, "straight": {"n": 308, "mm": 446.6}, "curved": {"n": 78, "mm": 92.4}},
+  "tb": {"rings": 122, "straight": {"n": 1352, "mm": 1788.9}, "curved": {"n": 329, "mm": 413.8}}
+ },
+ "circles": [{"c": [24.5, 279.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [212.0, 104.4, 310.0, 114.3], "w": 98.0, "h": 9.8, "from": "ring", "words": ["REDRAWN"], "in_title_block": true},
+  {"mm": [311.3, 104.9, 329.7, 114.2], "w": 18.4, "h": 9.3, "from": "ring"},
+  {"mm": [171.6, 104.3, 190.6, 113.8], "w": 19.0, "h": 9.5, "from": "ring"},
+  {"mm": [191.7, 104.3, 210.7, 113.8], "w": 19.0, "h": 9.5, "from": "ring", "in_title_block": true},
+  {"mm": [311.3, 95.0, 329.7, 103.8], "w": 18.4, "h": 8.9, "from": "ring"},
+  {"mm": [212.0, 94.3, 310.3, 103.6], "w": 98.3, "h": 9.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [191.7, 94.3, 210.7, 103.2], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [171.6, 94.3, 190.6, 103.0], "w": 19.0, "h": 8.7, "from": "ring"},
+  {"mm": [121.7, 66.3, 329.7, 93.3], "w": 208.0, "h": 27.0, "from": "ring", "words": ["(VVE3S]", "WARD-BECK", "SYSTEMS"]},
+  {
+   "mm": [171.8, 26.3, 329.7, 65.8],
+   "w": 157.9,
+   "h": 39.5,
+   "from": "ring",
+   "words": ["ps", "M612", "BS", "DISTRI8UTlON", "AMPLIFIER", "COMPONENT", "LAYOUT", "tp"]
+  },
+  {"mm": [122.0, 46.0, 170.8, 55.1], "w": 48.8, "h": 9.1, "from": "ring"},
+  {"mm": [122.0, 26.1, 170.8, 35.0], "w": 48.8, "h": 8.9, "from": "ring"},
+  {"mm": [291.7, 6.7, 329.7, 25.7], "w": 38.1, "h": 19.1, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [191.9, 6.2, 290.4, 25.5], "w": 98.5, "h": 19.3, "from": "ring", "words": ["ht", "612-06-002"]},
+  {"mm": [172.1, 6.0, 190.9, 25.1], "w": 18.8, "h": 19.1, "from": "ring"},
+  {"mm": [122.0, 5.8, 170.8, 24.8], "w": 48.8, "h": 19.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [239.6, 266.0, 246.6, 272.0], "text": "F1"},
+   {"mm": [241.8, 232.3, 251.5, 240.5], "text": "F2"},
+   {"mm": [247.0, 105.6, 275.1, 110.6], "text": "REDRAWN"},
+   {"mm": [247.6, 95.2, 274.8, 100.2], "text": "REVISION"},
+   {"mm": [126.5, 72.1, 321.9, 89.4], "text": "(VVE3S] WARD-BECK SYSTEMS"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [239.9, 47.7, 296.0, 60.1], "text": "M612 BS"},
+   {"mm": [203.4, 41.2, 297.7, 48.2], "text": "DISTRI8UTlON AMPLIFIER"},
+   {"mm": [206.4, 30.0, 295.1, 37.0], "text": "COMPONENT LAYOUT"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"},
+   {"mm": [302.0, 17.7, 318.9, 23.5], "text": "ISSUE"},
+   {"mm": [216.3, 9.9, 267.1, 17.6], "text": "612-06-002"}
+  ]
+ },
+ "title_block": {
+  "mm": [190.2, 9.2, 328.7, 119.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "REDRAWN",
+   "REVISION",
+   "(VVE3S] WARD-BECK SYSTEMS",
+   "ps",
+   "M612 BS",
+   "DISTRI8UTlON AMPLIFIER",
+   "COMPONENT LAYOUT",
+   "tp",
+   "ht",
+   "ISSUE",
+   "612-06-002"
+  ]
+ },
+ "dots": [{"c": [137.5, 58.9], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 612-06-002, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 601 rings, 9,110 straight (13,583 mm) / 1,729 curved (1,752 mm); text 27 rings, 308 straight (447 mm) / 78 curved (92.4 mm); tb 122 rings, 1,352 straight (1,789 mm) / 329 curved (414 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.5 @ (24.5, 279.4)",
+  "- **Closed boxes:** 16 (4 in the title block); named: (VVE3S] WARD-BECK SYSTEMS; ps M612 BS DISTRI8UTlON AMPLIFIER COMPON; ISSUE; ht 612-06-002",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 18 in 13 lines: F1 · F2 · REDRAWN · REVISION · (VVE3S] WARD-BECK SYSTEMS · ps · M612 BS · DISTRI8UTlON AMPLIFIER · COMPONENT LAYOUT · tp · ht · ISSUE",
+  "- **Title block:** (190, 9)–(329, 119) mm: REDRAWN · REVISION · (VVE3S] WARD-BECK SYSTEMS · ps · M612 BS · DISTRI8UTlON AMPLIFIER · COMPONENT LAYOUT · tp · ht · ISSUE · 612-06-002"
+ ]
+}

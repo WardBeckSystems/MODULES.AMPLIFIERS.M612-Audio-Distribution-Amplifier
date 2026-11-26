@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - Audio DA.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/9aa2846127a30468-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 317.6, 424.0],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 621, "mm": 2837.7}, "curved": {"n": 75, "mm": 123.5}},
+  "text": {"rings": 163, "straight": {"n": 1914, "mm": 2597.3}, "curved": {"n": 415, "mm": 655.8}},
+  "tb": {"rings": 2, "straight": {"n": 99, "mm": 302.4}, "curved": {"n": 3, "mm": 6.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [123.7, 406.8, 288.7, 416.4], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [54.4, 398.1, 288.2, 412.3], "text": "WBS B41 PROGRESS AVENUE SCAABOAOUGH ONTAAIO M1h2X4"},
+   {"mm": [123.3, 394.9, 176.6, 400.2], "text": "TELEX: 085-25399"},
+   {"mm": [212.2, 394.9, 287.8, 400.2], "text": "TELEPHONE: 418/438-6550"},
+   {"mm": [150.5, 242.9, 201.2, 255.8], "text": "M612"},
+   {"mm": [128.9, 230.1, 224.8, 238.8], "text": "DISTRIBUTION AMPLIFIER"},
+   {"mm": [81.0, 5.4, 258.0, 12.4], "text": "DESIGN AND MANUFACTURE Of PAOFESSONAL AUDIO EOUPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [47.8, 389.4, 268.7, 425.1],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD_", "WBS B41 PROGRESS AVENUE SCAABOAOUGH ONTAAIO M1h2X4", "TELEX: 085-25399", "TELEPHONE: 418/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 0–424 mm up",
+  "- **Outlines:** line 32 rings, 621 straight (2,838 mm) / 75 curved (124 mm); text 163 rings, 1,914 straight (2,597 mm) / 415 curved (656 mm); tb 2 rings, 99 straight (302 mm) / 3 curved (6.3 mm)",
+  "- **Words (OCR):** 10 in 7 lines: WAAD-BECK SYSTEMS LTD_ · WBS B41 PROGRESS AVENUE SCAABOAOUGH ONTAAIO M1h2X4 · TELEX: 085-25399 · TELEPHONE: 418/438-6550 · M612 · DISTRIBUTION AMPLIFIER · DESIGN AND MANUFACTURE Of PAOFESSONAL AUDIO EOUPMENT",
+  "- **Title block:** (48, 389)–(269, 425) mm: WAAD-BECK SYSTEMS LTD_ · WBS B41 PROGRESS AVENUE SCAABOAOUGH ONTAAIO M1h2X4 · TELEX: 085-25399 · TELEPHONE: 418/438-6550"
+ ]
+}

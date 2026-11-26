@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/c0d9ad8e3f3a17de-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 310.2, 431.8],
+ "outlines": {
+  "line": {"rings": 159, "straight": {"n": 1795, "mm": 4740.4}, "curved": {"n": 395, "mm": 617.6}},
+  "text": {"rings": 339, "straight": {"n": 2799, "mm": 3309.8}, "curved": {"n": 807, "mm": 1292.3}}
+ },
+ "circles": [{"c": [252.7, 237.7], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [57.9, 407.2, 125.9, 416.8], "text": "DeCK GYSTEME"},
+   {"mm": [28.5, 409.6, 53.8, 415.8], "text": "WAPC"},
+   {"mm": [132.1, 358.2, 155.9, 369.2], "text": "Wby"},
+   {"mm": [170.1, 359.9, 204.9, 369.5], "text": "COMTERS"},
+   {"mm": [185.9, 345.7, 225.4, 356.7], "text": "AHPLIFLER"},
+   {"mm": [133.0, 348.0, 183.7, 354.3], "text": "FIUN"},
+   {"mm": [44.3, 261.0, 69.5, 267.3], "text": "Ecux"},
+   {"mm": [85.5, 240.5, 118.7, 246.7], "text": "Harranty"},
+   {"mm": [85.5, 235.8, 122.0, 240.6], "text": "Accaneca"},
+   {"mm": [85.5, 227.8, 163.2, 234.0], "text": "Genero Desceintion"},
+   {"mm": [114.0, 221.5, 134.5, 227.8], "text": "acion"},
+   {"mm": [87.0, 221.5, 106.0, 226.3], "text": "Knsea"},
+   {"mm": [117.2, 215.0, 163.2, 221.3], "text": "Descrintion"},
+   {"mm": [106.0, 207.3, 129.8, 213.5], "text": "cmance"},
+   {"mm": [85.5, 200.8, 126.7, 207.0], "text": "Parts List"},
+   {"mm": [85.5, 180.3, 118.7, 186.5], "text": "Ddnnge"},
+   {"mm": [82.3, 158.3, 142.5, 177.2], "text": "Me8 Schema ti<"},
+   {"mm": [231.0, 167.8, 280.0, 174.0], "text": "L86i?-0z-001"},
+   {"mm": [106.0, 161.3, 158.3, 167.5], "text": "Syatcn Viring"},
+   {"mm": [231.0, 161.3, 280.0, 167.5], "text": "L06 42-09-001"},
+   {"mm": [105.4, 144.7, 144.9, 160.5], "text": "Eomponent"},
+   {"mm": [144.9, 145.5, 172.5, 161.3], "text": "Eayec{"},
+   {"mm": [231.0, 155.0, 275.3, 161.3], "text": "861z-06-00?"},
+   {"mm": [231.0, 148.8, 248.5, 155.0], "text": "0162"},
+   {"mm": [259.5, 61.7, 280.0, 68.0], "text": "T55ME"},
+   {"mm": [231.0, 60.0, 256.3, 66.3], "text": "Hiilal"},
+   {"mm": [230.4, 45.1, 265.1, 54.7], "text": "JI 1978"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–432 mm up",
+  "- **Outlines:** line 159 rings, 1,795 straight (4,740 mm) / 395 curved (618 mm); text 339 rings, 2,799 straight (3,310 mm) / 807 curved (1,292 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (252.7, 237.7)",
+  "- **Words (OCR):** 31 in 27 lines: DeCK GYSTEME · WAPC · Wby · COMTERS · AHPLIFLER · FIUN · Ecux · Harranty · Accaneca · Genero Desceintion · acion · Knsea"
+ ]
+}

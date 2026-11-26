@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/c0d9ad8e3f3a17de-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.5, 431.8],
+ "outlines": {
+  "line": {"rings": 310, "straight": {"n": 3823, "mm": 7341.4}, "curved": {"n": 657, "mm": 949.7}},
+  "text": {"rings": 339, "straight": {"n": 3595, "mm": 6499.9}, "curved": {"n": 800, "mm": 1605.3}}
+ },
+ "circles": [{"c": [321.2, 225.5], "r": 9.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [224.1, 285.6, 229.9, 300.7], "w": 5.8, "h": 15.1, "from": "ring"},
+  {"mm": [287.6, 285.0, 294.5, 299.9], "w": 6.9, "h": 14.9, "from": "ring"},
+  {"mm": [220.9, 253.5, 223.7, 274.6], "w": 2.8, "h": 21.2, "from": "ring"},
+  {"mm": [227.1, 253.2, 271.7, 274.6], "w": 44.5, "h": 21.4, "from": "ring"},
+  {"mm": [103.8, 236.6, 113.3, 264.9], "w": 9.5, "h": 28.3, "from": "ring"},
+  {"mm": [56.1, 256.5, 70.8, 261.8], "w": 14.7, "h": 5.3, "from": "ring"},
+  {"mm": [130.0, 255.0, 144.7, 260.8], "w": 14.7, "h": 5.8, "from": "ring", "words": ["-uiD-"]},
+  {"mm": [163.2, 254.8, 178.3, 260.6], "w": 15.1, "h": 5.8, "from": "ring"},
+  {"mm": [34.5, 243.8, 36.9, 258.0], "w": 2.4, "h": 14.2, "from": "ring"},
+  {"mm": [40.3, 243.3, 46.0, 257.8], "w": 5.7, "h": 14.5, "from": "ring"},
+  {"mm": [220.6, 230.6, 264.7, 252.0], "w": 44.2, "h": 21.4, "from": "ring"},
+  {"mm": [268.6, 230.6, 271.4, 251.5], "w": 2.8, "h": 20.9, "from": "ring"},
+  {"mm": [286.2, 207.9, 292.8, 222.4], "w": 6.5, "h": 14.5, "from": "ring"},
+  {"mm": [313.3, 188.7, 328.0, 193.9], "w": 14.7, "h": 5.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [44.7, 259.3, 97.4, 301.5], "text": "8B~~"},
+   {"mm": [81.6, 248.9, 294.3, 302.5], "text": "R86 '~8~~C?, t1"},
+   {"mm": [287.1, 297.9, 296.0, 302.5], "text": "R33"},
+   {"mm": [82.3, 229.7, 213.5, 265.4], "text": "gg -uiD- -1IillJ-,~ {II)"},
+   {"mm": [51.4, 251.7, 75.8, 260.4], "text": "-nD-"},
+   {"mm": [90.7, 233.8, 97.4, 248.9], "text": "fll"},
+   {"mm": [82.3, 234.3, 89.0, 246.5], "text": "fjl"},
+   {"mm": [45.1, 193.4, 217.0, 238.8], "text": "B8~0'~~ 2~8~~8"},
+   {"mm": [308.1, 191.3, 332.5, 197.8], "text": "--[ED-"},
+   {"mm": [81.4, 191.7, 89.8, 195.8], "text": "RIO"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 310 rings, 3,823 straight (7,341 mm) / 657 curved (950 mm); text 339 rings, 3,595 straight (6,500 mm) / 800 curved (1,605 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 9.6 @ (321.2, 225.5)",
+  "- **Closed boxes:** 14; named: -uiD-",
+  "- **Words (OCR):** 20 in 14 lines: 8B~~ · R86 '~8~~C?, t1 · R33 · gg -uiD- -1IillJ-,~ {II) · -nD- · fll · fjl · B8~0'~~ 2~8~~8 · --[ED- · RIO · ps · BS"
+ ]
+}

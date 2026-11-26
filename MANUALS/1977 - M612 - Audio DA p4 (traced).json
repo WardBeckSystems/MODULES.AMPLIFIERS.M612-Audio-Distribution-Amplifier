@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - Audio DA.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/9aa2846127a30468-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 7.1, 333.3, 423.6],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 713, "mm": 3199.6}, "curved": {"n": 84, "mm": 130.7}},
+  "text": {"rings": 240, "straight": {"n": 2038, "mm": 2381.9}, "curved": {"n": 514, "mm": 820.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [30.2, 410.2, 147.9, 417.6], "text": "WARD-BECK By8tems LTD;"},
+   {"mm": [141.8, 361.6, 200.6, 370.3], "text": "IECHNICAL DATA"},
+   {"mm": [113.8, 348.7, 228.9, 356.8], "text": "M612 DISTRIBUTION_AMPLIFLER"},
+   {"mm": [41.0, 321.7, 123.1, 330.6], "text": "Ambient Temperature:"},
+   {"mm": [154.4, 322.8, 163.7, 329.7], "text": "to"},
+   {"mm": [166.5, 320.6, 260.8, 330.2], "text": "60 degrees Celsius ."},
+   {"mm": [41.0, 309.2, 86.4, 316.8], "text": "Dimensions :"},
+   {"mm": [146.8, 309.2, 163.7, 316.1], "text": "3 .4 \""},
+   {"mm": [166.2, 307.7, 232.5, 316.4], "text": "wide 3 . 4\" high"},
+   {"mm": [243.1, 306.8, 288.7, 316.4], "text": "13.7\" deep."},
+   {"mm": [146.8, 301.2, 204.5, 309.8], "text": "(86 X 86 mm"},
+   {"mm": [162.4, 302.3, 172.1, 308.7], "text": "mm"},
+   {"mm": [214.6, 302.3, 228.6, 309.2], "text": "348"},
+   {"mm": [230.8, 301.8, 244.2, 309.3], "text": "mm )"},
+   {"mm": [41.0, 288.2, 70.6, 296.9], "text": "Weight:"},
+   {"mm": [153.5, 287.1, 236.8, 297.0], "text": "Pounds (2.27 kg) net"},
+   {"mm": [163.0, 6.0, 176.0, 13.5], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–333 mm across, 7–424 mm up",
+  "- **Outlines:** line 32 rings, 713 straight (3,200 mm) / 84 curved (131 mm); text 240 rings, 2,038 straight (2,382 mm) / 514 curved (820 mm)",
+  "- **Words (OCR):** 28 in 17 lines: WARD-BECK By8tems LTD; · IECHNICAL DATA · M612 DISTRIBUTION_AMPLIFLER · Ambient Temperature: · to · 60 degrees Celsius . · Dimensions : · 3 .4 \" · wide 3 . 4\" high · 13.7\" deep. · (86 X 86 mm · mm"
+ ]
+}
