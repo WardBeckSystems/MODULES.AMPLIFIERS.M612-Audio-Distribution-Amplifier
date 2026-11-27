@@ -13,6 +13,59 @@ Ward-Beck Systems M612, 1975|8. Wiki page: [M612 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 18 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 93 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back.jpg](MANUALS/19xx%20-%20M612%20-%20DOC%20-%20wbsps%20-%20promo%20-%20mf6%20mounting%20frame%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Finish** | Natural anodize with WBS green detachable rack trim plates Any combination of the above, with the provision that the total width does not exceed that often single modules: ACCOMMODATES Ten single modules, such as M600, M6OS, etc; each 1.ZW inches |
+| **Accessories** | MFR6 Frame receptacle (max.10) MF6-2 - Set of 3 cable brackets MF6-3 Rear Component Tray MF6-4 Rear Cover MFB6-1 Single Module Blank MFB6-2 Double Module Blank MFB6-4 Quadruple Module Blank |
+
+## Circuit description
+
+From [1978 - M612 - Audio DA.pdf](MANUALS/1978%20-%20M612%20-%20Audio%20DA.pdf) pages 2-4 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Mai nt en a nc e 5-1 to 5-2 Parts List 6-1 to 6-5
+
+Drawings M6I2 Schematic LB612-02 -00 1 M612 System Wiring LB6 12-09 -0 0 1 M6I2 Component Layout B612 -06 -00 2 MI52 COlDpo nent Lay out 8152 -06-001
+
+**MANUAL ISSUE 12**
+
+JAtl. 1978
+
+WAR C - BECK B YSTEMB L T C.
+
+**TECHNICAL DATA**
+
+Humber of Outputs: 12.
+
+Gain: Front panels electab le: O. B. 16, Z4 o r 3Z da •:!:6 dB trim adjust men t for each range.
+
+Frequency Response: t o. 2 S dB from 20 Hz to 20 kHz. Noise: · 75 dBm absolute at unity gain. ·60 dBm absolute at 32 dB gain.
+
+(20Hz t o ZO I:Hz) Harmonic Distortion: less than 0.Z5 1 THD from ZO Hz t o 20 kHz (measured a t +lB dBm output w1th all outputs terminated).
+
+Source Impedance: 600 ohm ma)(1mum, bala nced/u nb alanc ed. Input Impedance: Greater than 20 1: ohm. Input level: -30 dBm minimum for +B dBm output, +18 dBm ma)(imum.
+
+load Impedance: 600 ohm, balanced (eac h out put). Output Impedance: 600 ohm, resist ive (each output). Output level: +8 dBm nominal, +24 dBm ma)(i mum with 6 splits, +22 dBm mu imum with 12 splits.
+
+Output Isolation: Better than 60 dB from 20 Hz to 20 kHz.
+
+Phasing: low terminal numbers o f input and output pairs are i n phase.
+
+Power Requirements: 10 5 to 12 5 volts e c, 60 Hz, 15 VA.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

@@ -1,0 +1,43 @@
+{
+ "module": "M612",
+ "source": {
+  "file": "MANUALS/1978 - M612 - Audio DA.pdf",
+  "pages": [
+   2,
+   3,
+   4
+  ]
+ },
+ "ocr_quality": 0.89,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Mai nt en a nc e 5-1 to 5-2 Parts List 6-1 to 6-5",
+    "Drawings M6I2 Schematic LB612-02 -00 1 M612 System Wiring LB6 12-09 -0 0 1 M6I2 Component Layout B612 -06 -00 2 MI52 COlDpo nent Lay out 8152 -06-001"
+   ]
+  },
+  {
+   "heading": "MANUAL ISSUE 12",
+   "paragraphs": [
+    "JAtl. 1978",
+    "WAR C - BECK B YSTEMB L T C."
+   ]
+  },
+  {
+   "heading": "TECHNICAL DATA",
+   "paragraphs": [
+    "Humber of Outputs: 12.",
+    "Gain: Front panels electab le: O. B. 16, Z4 o r 3Z da •:!:6 dB trim adjust men t for each range.",
+    "Frequency Response: t o. 2 S dB from 20 Hz to 20 kHz. Noise: · 75 dBm absolute at unity gain. ·60 dBm absolute at 32 dB gain.",
+    "(20Hz t o ZO I:Hz) Harmonic Distortion: less than 0.Z5 1 THD from ZO Hz t o 20 kHz (measured a t +lB dBm output w1th all outputs terminated).",
+    "Source Impedance: 600 ohm ma)(1mum, bala nced/u nb alanc ed. Input Impedance: Greater than 20 1: ohm. Input level: -30 dBm minimum for +B dBm output, +18 dBm ma)(imum.",
+    "load Impedance: 600 ohm, balanced (eac h out put). Output Impedance: 600 ohm, resist ive (each output). Output level: +8 dBm nominal, +24 dBm ma)(i mum with 6 splits, +22 dBm mu imum with 12 splits.",
+    "Output Isolation: Better than 60 dB from 20 Hz to 20 kHz.",
+    "Phasing: low terminal numbers o f input and output pairs are i n phase.",
+    "Power Requirements: 10 5 to 12 5 volts e c, 60 Hz, 15 VA."
+   ]
+  }
+ ]
+}
