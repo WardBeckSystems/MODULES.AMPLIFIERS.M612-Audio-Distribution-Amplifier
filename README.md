@@ -1,17 +1,17 @@
-# M612 · Amplifiers
+# M612 Audio Distribution Amplifier · Amplifiers
 
 Ward-Beck Systems M612, 1975|8. Wiki page: [M612 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M612.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 235 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 36 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 232 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 35 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 18 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 93 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 89 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -84,7 +84,7 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNTduU3lwdWh1M0E/view?resourcekey=0-Hnh5PPykoSR4v5KG3WZuHQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNTduU3lwdWh1M0E&resourcekey=0-Hnh5PPykoSR4v5KG3WZuHQ" width="240" alt="1977 - M612 - IMG_3320.jpg"></a><br><sub>1977|10 · IMG_3320</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU25pb1QycGJmTjQ/view?resourcekey=0-pBJXqoW3Z-RCXbu90cOi0Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU25pb1QycGJmTjQ&resourcekey=0-pBJXqoW3Z-RCXbu90cOi0Q" width="240" alt="1977 - M612 - wbsps - promo - m612 da - 003.jpg"></a><br><sub>1977|10 · wbsps - promo - m612 da - 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZXZjU0RjZjh6aVU/view?resourcekey=0-sVqNjolVuuQilx9RRHSmcQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZXZjU0RjZjh6aVU&resourcekey=0-sVqNjolVuuQilx9RRHSmcQ" width="240" alt="1977 - M612 - wbsps - promo - m612 da - 004.jpg"></a><br><sub>1977|10 · wbsps - promo - m612 da - 004</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1977|10 · wbsps - module - m612 da - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKenBNLWVhTjlTNnc/view?resourcekey=0-r0XAhgD8bwa_0eMBM2f72Q) · [1977|10 · wbsps - promo - m612 da - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKZExqZXlCTHJVS1E/view?resourcekey=0-T46-PuiVxujJvx3GAyQeFA)
+Shared privately on Google Drive (opens after sign-in): [1977|10 · wbsps - module - m612 da - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKenBNLWVhTjlTNnc/view?resourcekey=0-r0XAhgD8bwa_0eMBM2f72Q)
 
 ## Schematics
 
@@ -117,9 +117,9 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbzV5MnVGRGJxX1U/view?resourcekey=0-iK3383e9k0-6d2m8E1G6VA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbzV5MnVGRGJxX1U&resourcekey=0-iK3383e9k0-6d2m8E1G6VA" width="240" alt="19xx - M612 - DOC - US Sales Brochure pg 28.jpg"></a><br><sub>19xx - M612 - DOC - US Sales Brochure pg 28</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSmxWNzJiaWhDUG8/view?resourcekey=0-wEoE6fchPeMGHwSudzolLw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSmxWNzJiaWhDUG8&resourcekey=0-wEoE6fchPeMGHwSudzolLw" width="240" alt="19xx - M612 - DOC - Ward Beck Systems MF6 b.jpg"></a><br><sub>19xx - M612 - DOC - Ward Beck Systems MF6 b</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRkh0U0VRYU5UTUk/view?resourcekey=0-W_IKQRIzN4myMtuY24YJIQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRkh0U0VRYU5UTUk&resourcekey=0-W_IKQRIzN4myMtuY24YJIQ" width="240" alt="19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back.jpg"></a><br><sub>19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1977|10 · wbsps - module - m612 da - back](https://drive.google.com/file/d/0B0yR0b5T78SKZjNLN1JJalptVlE/view?resourcekey=0-qgx8QG3t74LZGgpXQyl4BQ) · [1977|10 · wbsps - module - m612 da - front](https://drive.google.com/file/d/0B0yR0b5T78SKVTBxb2pBYUhNdW8/view?resourcekey=0-Z5SR9iP2_03AKbUN07lGeg) · [19xx - M612 - DOC - wbsps - ad - 600 series](https://drive.google.com/file/d/0B0yR0b5T78SKYV84MnZPdmp4RXM/view?resourcekey=0-BYn5IKGKqKUqwhW73pe0eg)
+Shared privately on Google Drive (opens after sign-in): [1977|10 · wbsps - module - m612 da - front](https://drive.google.com/file/d/0B0yR0b5T78SKVTBxb2pBYUhNdW8/view?resourcekey=0-Z5SR9iP2_03AKbUN07lGeg) · [19xx - M612 - DOC - wbsps - ad - 600 series](https://drive.google.com/file/d/0B0yR0b5T78SKYV84MnZPdmp4RXM/view?resourcekey=0-BYn5IKGKqKUqwhW73pe0eg)
 
-Not on Google Drive yet: `19xx - M612 - M612.jpg`, `M612 - P018 - LB612-02-001 04.jpg`, `M612 - P018 - LB612-02-001 05.jpg`, `M612 - P020 - LB612-06-002 R.jpg`, `M612 - P021 - LB152-06-001 R.jpg`, `wbsps - promo - m612 da - back.jpg`
+Not on Google Drive yet: `M612 - P018 - LB612-02-001 04.jpg`, `M612 - P018 - LB612-02-001 05.jpg`, `M612 - P020 - LB612-06-002 R.jpg`, `M612 - P021 - LB152-06-001 R.jpg`
 
 ## KiCad
 
