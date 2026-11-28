@@ -1,5 +1,5 @@
 # 1978 - M612 - Audio DA.pdf
-Wiki page: [M612](../../../../PAGES/M612.md)
+Wiki page: [M612](../)
 
 
 - **Year:** 1978 (found in this file: "ISS UE 12 BS W JAtl. 1978")

@@ -1,5 +1,5 @@
 # 1977 - M612 - Audio DA.pdf
-Wiki page: [M612](../../../../PAGES/M612.md)
+Wiki page: [M612](../)
 
 
 - **Year:** 1977 (found in this file: "REVISION 77")

@@ -1,5 +1,5 @@
 # 1977 - M612 - 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM.jpg
-Wiki page: [M612](../../../../PAGES/M612.md)
+Wiki page: [M612](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

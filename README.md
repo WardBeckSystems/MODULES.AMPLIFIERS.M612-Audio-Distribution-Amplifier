@@ -1,6 +1,6 @@
 # M612 Audio Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M612, 1975|8. Wiki page: [M612 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M612.html)
+Ward-Beck Systems M612, 1975|8. Wiki page: [M612 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M612-Audio-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

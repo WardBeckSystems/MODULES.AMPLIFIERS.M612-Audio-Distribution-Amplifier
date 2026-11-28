@@ -1,5 +1,5 @@
 # 1977 - M612 - P001 - Title Page.jpg
-Wiki page: [M612](../../../../PAGES/M612.md)
+Wiki page: [M612](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

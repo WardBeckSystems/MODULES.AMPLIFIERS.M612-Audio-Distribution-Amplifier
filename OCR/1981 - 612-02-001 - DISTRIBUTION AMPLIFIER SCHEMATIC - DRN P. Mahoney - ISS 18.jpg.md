@@ -1,5 +1,5 @@
 # 1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18.jpg
-Wiki page: [M612](../../../../PAGES/M612.md)
+Wiki page: [M612](../)
 
 
 - **Year:** 1981 (title block date)

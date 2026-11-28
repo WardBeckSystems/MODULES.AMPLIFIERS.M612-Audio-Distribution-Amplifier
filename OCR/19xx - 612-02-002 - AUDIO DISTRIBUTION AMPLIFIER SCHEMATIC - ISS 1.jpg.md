@@ -1,5 +1,5 @@
 # 19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1.jpg
-Wiki page: [M612](../../../../PAGES/M612.md)
+Wiki page: [M612](../)
 
 
 - **Year:** unknown (title block (read by eye))
