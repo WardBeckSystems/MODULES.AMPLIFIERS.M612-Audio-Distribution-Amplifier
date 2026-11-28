@@ -4,13 +4,11 @@ Ward-Beck Systems M612, 1975|8. Wiki page: [M612 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 232 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 35 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 18 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 231 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 34 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 17 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 89 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -95,8 +93,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMkctRTZuazlCb1E/view?resourcekey=0-B2reU32QoUkUpEDz6zK83A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMkctRTZuazlCb1E&resourcekey=0-B2reU32QoUkUpEDz6zK83A" width="240" alt="1977 - M612 - 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM.jpg"></a><br><sub>1977|10 · 612-09-001 - FOR MINIMUM DISSIPATION MAXIMUM HEADROOM · <a href="SCHEMATICS/1977%20-%20M612%20-%20612-09-001%20-%20FOR%20MINIMUM%20DISSIPATION%20MAXIMUM%20HEADROOM%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWTF3MGFMbmNyU0U/view?resourcekey=0-3lca-j3zrkgpJavZGt_FOQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWTF3MGFMbmNyU0U&resourcekey=0-3lca-j3zrkgpJavZGt_FOQ" width="240" alt="1977 - M612 - 612-09-001 - NOT LOAD UNU SED OUT PUTS.jpg"></a><br><sub>1977|10 · 612-09-001 - NOT LOAD UNU SED OUT PUTS · <a href="SCHEMATICS/1977%20-%20M612%20-%20612-09-001%20-%20NOT%20LOAD%20UNU%20SED%20OUT%20PUTS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdm1ST1N5dzhvVkU/view?resourcekey=0-etrcv-YXtXAbDvrjDTQvLA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdm1ST1N5dzhvVkU&resourcekey=0-etrcv-YXtXAbDvrjDTQvLA" width="240" alt="1987 - M612 - 152-06-001 - AMPLIFIER BOARD.jpg"></a><br><sub>1987|20 · 152-06-001 - AMPLIFIER BOARD · <a href="SCHEMATICS/1987%20-%20M612%20-%20152-06-001%20-%20AMPLIFIER%20BOARD%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 612-06-002 - DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ISS 2.jpg`, `1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18 (2).jpg`, `1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18.jpg`, `19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1.jpg`
-
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
@@ -119,8 +115,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [1977|10 · wbsps - module - m612 da - front](https://drive.google.com/file/d/0B0yR0b5T78SKVTBxb2pBYUhNdW8/view?resourcekey=0-Z5SR9iP2_03AKbUN07lGeg) · [19xx - M612 - DOC - wbsps - ad - 600 series](https://drive.google.com/file/d/0B0yR0b5T78SKYV84MnZPdmp4RXM/view?resourcekey=0-BYn5IKGKqKUqwhW73pe0eg)
 
-Not on Google Drive yet: `M612 - P018 - LB612-02-001 04.jpg`, `M612 - P018 - LB612-02-001 05.jpg`, `M612 - P020 - LB612-06-002 R.jpg`, `M612 - P021 - LB152-06-001 R.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -142,7 +136,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18.kicad_sch](KICAD/1981%20-%20612-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ISS%2018.kicad_sch)
 - [19xx - 612-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20612-02-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [M612.kicad_sym](KICAD/M612.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
